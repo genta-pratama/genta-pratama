@@ -5,8 +5,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Genta Pratama</h1>
-<h3 align="center">💻 Web Developer | 🚀 Laravel Developer</h3>
+<h1 align="center">Hallo, Aku Genta Pratama</h1>
+<h3 align="center">💻 Web Developer </h3>
 
 
 
