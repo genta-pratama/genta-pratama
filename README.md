@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hallo, I'm Genta Pratama</h1>
+<h1 align="center">Hi, I'm Gen</h1>
 <h3 align="center">💻 Web Developer </h3>
 
 
