@@ -1,16 +1,23 @@
-# Hi 👋, I'm Genta Pratama
 
-💻 Web Developer  
-🚀 Focus on Laravel Development  
-🧪 Developer of Digitalisasi Lab Kimia System  
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
----
 
-## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h1 align="center">Hi 👋, I'm Genta Pratama</h1>
+<h3 align="center">💻 Web Developer | 🚀 Laravel Developer</h3>
+
+
+
+
+## 👨‍💻 About Me
+- 🚀 I build web applications using Laravel   
+- 📚 Currently learning modern web development
+  
+
+
+## ⚡ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,github,vscode&theme=dark"/>
+</p>
